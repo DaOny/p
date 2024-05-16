@@ -1,3 +1,8 @@
+package-lock.json
+
+package.json
+css_sass.css.map
+css_sass.scss
+sass.css.map
 /node_modules
-*.map
-*.scss
+# ignorar todos los archivos que terminen en
